@@ -1,0 +1,15 @@
+Thabo,78
+Lerato,64
+Mpho,91
+Naledi,55
+Kabelo,43
+Aisha,87
+Daniel,72
+Precious,38
+Sipho,69
+Amara,81
+Tshepo,59
+Zanele,94
+Brian,47
+Karabo,76
+Neo,52
