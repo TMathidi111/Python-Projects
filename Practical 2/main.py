@@ -1,6 +1,6 @@
 # 1. Read the CSV file 
 # 2. Calculate revenue 
-# 3. Total Revenue, Units sold, Number of Transactions, Averaage Transaction Value
+# 3. Total Revenue, Units sold, Number of Transactions, Average Transaction Value
 # 4. Product sold by quantity
 # 5. Most revenue generating product
 # 6. Category Analysis 
