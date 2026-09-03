@@ -1,0 +1,72 @@
+My job is to build a python data pipeline that : 
+
+
+Raw CSV
+   ↓
+Read
+   ↓
+Validate & clean
+   ↓
+Transform
+   ↓
+Aggregate
+   ↓
+Analyse
+   ↓
+Generate report
+
+You should be able to access fields 
+using meaningful column names rather 
+than relying entirely on positions such as: row[4] and row[5]
+
+Validation :
+Your program must identify invalid records.
+A transaction should be considered invalid if:
+transaction_id is missing
+transaction_id is duplicated
+quantity is missing
+quantity isn't a valid number
+quantity is zero or negative
+unit_price isn't a valid number
+unit_price is zero or negative
+customer is missing
+
+invalid transactions should not be included in sales calculations
+But i must keep track of valid and invalid transactions
+
+Expected Output :
+========================================
+        SALES DATA PIPELINE
+========================================
+
+DATA QUALITY
+Valid transactions: XX
+Invalid transactions: XX
+
+OVERALL PERFORMANCE
+Total revenue: RXXXXX.XX
+Total units sold: XX
+Average transaction value: RXXXX.XX
+
+PRODUCT PERFORMANCE
+Laptop       | Units: XX | Revenue: RXXXXX.XX
+Mouse        | Units: XX | Revenue: RXXXXX.XX
+...
+
+CATEGORY PERFORMANCE
+Electronics  | Units: XX | Revenue: RXXXXX.XX
+Furniture    | Units: XX | Revenue: RXXXXX.XX
+...
+
+CUSTOMER PERFORMANCE
+Thabo        | Transactions: XX | Units: XX | Spent: RXXXXX.XX
+...
+
+KEY RESULTS
+Best-selling product: XXXXX
+Highest-revenue product: XXXXX
+Highest-spending customer: XXXXX
+Highest-value transaction: XXXXX
+Highest-revenue category: XXXXX
+
+Hint : Dictionaires and functions 
