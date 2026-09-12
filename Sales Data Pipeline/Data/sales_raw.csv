@@ -1,0 +1,26 @@
+transaction_id,date,product,category,quantity,unit_price,customer
+2001,2026-02-01,Laptop,Electronics,1,12500,Thabo
+2002,2026-02-01,Mouse,Electronics,2,350,Lerato
+2003,2026-02-02,Office Chair,Furniture,1,3200,Mpho
+2004,2026-02-03,Keyboard,Electronics,1,850,Naledi
+2005,2026-02-03,Desk,Furniture,1,4500,Thabo
+2006,2026-02-04,Monitor,Electronics,2,4200,Lerato
+2007,2026-02-05,Notebook,Stationery,5,85,Mpho
+2008,2026-02-05,Pen,Stationery,10,25,Naledi
+2009,2026-02-06,Laptop,Electronics,1,12500,Thabo
+2010,2026-02-06,Desk,Furniture,2,4500,Lerato
+2011,2026-02-07,Mouse,Electronics,3,350,Mpho
+2012,2026-02-08,Office Chair,Furniture,1,3200,Naledi
+2013,2026-02-08,Monitor,Electronics,1,4200,Thabo
+2014,2026-02-09,Notebook,Stationery,8,85,Lerato
+2015,2026-02-10,Keyboard,Electronics,2,850,Mpho
+2016,2026-02-10,Laptop,Electronics,,12500,Naledi
+2017,2026-02-11,Mouse,Electronics,2,-350,Thabo
+2018,2026-02-11,Desk,Furniture,abc,4500,Lerato
+2019,2026-02-12,Monitor,Electronics,1,4200,
+2020,2026-02-12,Notebook,Stationery,4,85,Mpho
+2021,2026-02-13,Pen,Stationery,10,25,Naledi
+2022,2026-02-13,Laptop,Electronics,1,12500,Thabo
+2022,2026-02-14,Mouse,Electronics,2,350,Lerato
+2024,2026-02-14,Keyboard,Electronics,1,850,Mpho
+2025,2026-02-15,Desk,Furniture,1,4500,Thabo
