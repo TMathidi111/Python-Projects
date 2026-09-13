@@ -1,0 +1,79 @@
+This project specfically targets : 
+- Dictionaires (storing and aggregation)
+- Generic Aggregation 
+    - How much has each customer spent?
+    - How many units has each product sold?
+    - How much revenue has each product sold?
+    - How much revenue has each category generated?
+- Functions : read data, validate data, process transaction, aggregate data, generate report
+- Data Modelling : {Customer: Revenue, Orders, Units}
+- Validation
+
+There are deliberately several different types of situations hidden in the data, including:
+missing values
+invalid numeric data
+invalid prices
+duplicate IDs
+different customers
+different provinces
+different product categories
+repeated customers/products
+multiple quantities
+decimal prices
+
+Expected Outcome : 
+CUSTOMER ORDER INTELLIGENCE
+===========================
+
+Orders processed:
+Valid orders:
+Invalid orders:
+
+Total revenue:
+Total units sold:
+Average order value:
+
+CUSTOMER ANALYSIS
+-----------------
+...
+
+PRODUCT ANALYSIS
+----------------
+...
+
+CATEGORY ANALYSIS
+-----------------
+...
+
+PROVINCE ANALYSIS
+-----------------
+...
+
+TOP PERFORMERS
+--------------
+...
+
+customer_data : 
+customer name 
+    revenue
+    units 
+    transactions 
+
+product_data : 
+product name 
+    revenue 
+    units sold 
+    transactions 
+
+category_data : 
+category name 
+    revenue 
+    units 
+
+province_data:
+province_name 
+    revenue
+    transactions
+    units
+
+
