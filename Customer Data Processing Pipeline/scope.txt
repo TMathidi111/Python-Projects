@@ -1,0 +1,67 @@
+customers.csv ──┐
+                │
+products.csv ───┼──> Python program
+                │
+orders.csv ─────┘
+                      │
+                      ▼
+                  VALIDATION
+                      │
+              ┌───────┴───────┐
+              ▼               ▼
+           VALID            INVALID
+              │               │
+              ▼               ▼
+        TRANSFORMATION    DATA-QUALITY
+              │              REPORT
+              ▼
+          ANALYSIS
+              │
+              ▼
+        OUTPUT DATASET
+Requirements :
+1. Load the datasets
+2. Validate customers
+3. Validate products
+4. Validate Orders -- Referential validation
+5. Transform valid orders
+6. Calculate revenue
+7. Generate processed_orders.csv in the output file : 
+    order_id
+    customer_id
+    customer_name
+    province
+    product_id
+    product_name
+    category
+    quantity
+    unit_price
+    revenue
+8. Generate invalid_orders.csv 
+    order_id
+    customer_id
+    product_id
+    quantity
+    reason
+9. Produce Summary Information
+Functions, USE Functions
+new concepts : 
+    def
+    parameters
+    return
+
+    try
+    except
+
+    processed_orders.csv
+    invalid_orders.csv
+
+                customers
+                    │
+                    │ customer_id
+                    ↓
+orders ─────────────────────────
+                    ↑
+                    │ product_id
+                    │
+                products

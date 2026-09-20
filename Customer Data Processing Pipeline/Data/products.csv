@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price
+P001,Wireless Mouse,Electronics,349.99
+P002,Mechanical Keyboard,Electronics,899.99
+P003,USB-C Cable,Electronics,199.99
+P004,27-inch Monitor,Electronics,3299.99
+P005,Office Chair,Furniture,2499.99
+P006,Standing Desk,Furniture,4599.99
+P007,Desk Lamp,Furniture,699.99
+P008,Notebook,Stationery,49.99
+P009,Premium Pen Set,Stationery,129.99
+P010,File Folder Pack,Stationery,89.99
+P011,External SSD,Electronics,1799.99
+P012,Laptop Stand,Furniture,599.99
+P013,Whiteboard Markers,Stationery,159.99
+P014,Webcam,Electronics,1199.99
+P015,Headset,Electronics,749.99
