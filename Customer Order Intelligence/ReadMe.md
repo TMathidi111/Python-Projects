@@ -7,9 +7,6 @@ Customer Order Intelligence is a data-analysis project designed to turn customer
 ## Tools used
 
 - **Python** for data processing, analysis, and automation
-- **Pandas** and **NumPy** for data cleaning, transformation, and numerical analysis
-- **Matplotlib** and **Seaborn** for exploratory visualisation
-- **Jupyter Notebook** for documenting the analysis and presenting results
 - **CSV/data files** as the source of customer and order information
 - **Git/GitHub** for version control and project sharing
 
