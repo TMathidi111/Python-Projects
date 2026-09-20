@@ -1,0 +1,45 @@
+order_id,order_date,customer,province,product,category,quantity,unit_price,payment_method,order_status
+3001,2026-03-01,Thabo Mokoena,Gauteng,Mechanical Keyboard,Computer Accessories,1,1299.99,Card,Completed
+3002,2026-03-01,Lerato Naidoo,KwaZulu-Natal,USB-C Hub,Computer Accessories,2,649.50,EFT,Completed
+3003,2026-03-02,Mpho Dlamini,Gauteng,27-inch Monitor,Displays,1,4299.00,Card,Completed
+3004,2026-03-02,Naledi Khumalo,Western Cape,Wireless Mouse,Computer Accessories,3,349.99,Card,Completed
+3005,2026-03-03,Thabo Mokoena,Gauteng,Laptop,Computers,1,12499.00,EFT,Completed
+3006,2026-03-03,Ayanda Ndlovu,Eastern Cape,Office Chair,Furniture,1,3299.00,Card,Completed
+3007,2026-03-04,Lerato Naidoo,KwaZulu-Natal,External SSD,Storage,2,1899.00,EFT,Completed
+3008,2026-03-04,Mpho Dlamini,Gauteng,Laptop Stand,Computer Accessories,2,799.00,Card,Completed
+3009,2026-03-05,Naledi Khumalo,Western Cape,27-inch Monitor,Displays,2,4299.00,EFT,Completed
+3010,2026-03-05,Thabo Mokoena,Gauteng,Wireless Mouse,Computer Accessories,2,349.99,Card,Completed
+3011,2026-03-06,Ayanda Ndlovu,Eastern Cape,Mechanical Keyboard,Computer Accessories,1,1299.99,EFT,Completed
+3012,2026-03-06,Kabelo Molefe,Limpopo,Laptop,Computers,1,12499.00,Card,Completed
+3013,2026-03-07,Lerato Naidoo,KwaZulu-Natal,Webcam,Computer Accessories,2,899.00,Card,Completed
+3014,2026-03-07,Mpho Dlamini,Gauteng,External SSD,Storage,1,1899.00,EFT,Completed
+3015,2026-03-08,Naledi Khumalo,Western Cape,Office Chair,Furniture,2,3299.00,Card,Completed
+3016,2026-03-08,Thabo Mokoena,Gauteng,USB-C Hub,Computer Accessories,1,649.50,Card,Completed
+3017,2026-03-08,Naledi Khumalo,Gauteng,Wireless Mouse,Computer Accessories,,349.99,Card,Completed
+3018,2026-03-09,Kabelo Molefe,Limpopo,27-inch Monitor,Displays,1,4299.00,EFT,Completed
+3019,2026-03-09,Ayanda Ndlovu,Eastern Cape,Laptop Stand,Computer Accessories,3,799.00,Card,Completed
+3020,2026-03-10,Mpho Dlamini,Gauteng,Laptop,Computers,1,12499.00,EFT,Completed
+3021,2026-03-10,Thabo Mokoena,Gauteng,Laptop,Computers,1,-12499.00,Card,Completed
+3022,2026-03-11,Lerato Naidoo,KwaZulu-Natal,Mechanical Keyboard,Computer Accessories,2,1299.99,EFT,Completed
+3023,2026-03-11,Naledi Khumalo,Western Cape,External SSD,Storage,1,1899.00,Card,Completed
+3024,2026-03-12,Kabelo Molefe,Limpopo,Office Chair,Furniture,1,3299.00,EFT,Completed
+3025,2026-03-12,Ayanda Ndlovu,Eastern Cape,Wireless Mouse,Computer Accessories,5,349.99,Card,Completed
+3026,2026-03-13,Mpho Dlamini,Gauteng,Webcam,Computer Accessories,1,899.00,Card,Completed
+3027,2026-03-13,Thabo Mokoena,Gauteng,External SSD,Storage,2,1899.00,EFT,Completed
+3028,2026-03-14,Mpho Dlamini,Free State,USB-C Hub,Computer Accessories,abc,649.50,EFT,Completed
+3029,2026-03-14,Naledi Khumalo,Western Cape,Laptop,Computers,1,12499.00,Card,Completed
+3030,2026-03-15,Lerato Naidoo,KwaZulu-Natal,27-inch Monitor,Displays,1,4299.00,EFT,Completed
+3031,2026-03-15,Kabelo Molefe,Limpopo,Wireless Mouse,Computer Accessories,4,349.99,Card,Completed
+3032,2026-03-16,Ayanda Ndlovu,Eastern Cape,Mechanical Keyboard,Computer Accessories,1,1299.99,EFT,Completed
+3033,2026-03-16,Thabo Mokoena,Gauteng,Office Chair,Furniture,1,3299.00,Card,Completed
+3034,2026-03-17,,Gauteng,Laptop,Computers,1,12499.00,Card,Completed
+3035,2026-03-17,Lerato Naidoo,KwaZulu-Natal,External SSD,Storage,2,1899.00,EFT,Completed
+3036,2026-03-18,Mpho Dlamini,Gauteng,Laptop Stand,Computer Accessories,2,799.00,Card,Completed
+3037,2026-03-18,Kabelo Molefe,Limpopo,Webcam,Computer Accessories,1,899.00,EFT,Completed
+3038,2026-03-19,Naledi Khumalo,Western Cape,Mechanical Keyboard,Computer Accessories,2,1299.99,Card,Completed
+3039,2026-03-19,Ayanda Ndlovu,Eastern Cape,27-inch Monitor,Displays,1,4299.00,EFT,Completed
+3039,2026-03-20,Thabo Mokoena,Gauteng,Wireless Mouse,Computer Accessories,2,349.99,Card,Completed
+3041,2026-03-20,Lerato Naidoo,KwaZulu-Natal,Office Chair,Furniture,1,3299.00,EFT,Completed
+3042,2026-03-21,Mpho Dlamini,Gauteng,External SSD,Storage,3,1899.00,Card,Completed
+3043,2026-03-21,Kabelo Molefe,Limpopo,Laptop,Computers,1,12499.00,EFT,Completed
+3044,2026-03-22,Naledi Khumalo,Western Cape,USB-C Hub,Computer Accessories,2,649.50,Card,Completed
